@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\news_more_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xxhdpi\\news_more_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\news_more_icon_hightliang.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xxhdpi\\news_more_icon_hightliang.png"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\menu\\yuliu2.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\menu\\yuliu2.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\menu\\regist.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\menu\\regist.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\menu\\test.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\menu\\test.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\menu\\file_chooser.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\menu\\file_chooser.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\menu\\t.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\menu\\t.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\menu\\card.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\menu\\card.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\menu\\yuliu1.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\menu\\yuliu1.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\menu\\trans_upload.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\menu\\trans_upload.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_courseware.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\menu\\menu_courseware.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\menu\\setting.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\menu\\setting.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sdcard_file.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\menu\\sdcard_file.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\menu\\test_ui.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\menu\\test_ui.xml"
+    }
+]

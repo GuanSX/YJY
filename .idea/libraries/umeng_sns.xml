@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="umeng-sns">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/umeng-sns.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

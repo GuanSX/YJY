@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:background="@color/body_bg">
+
+    <LinearLayout
+        android:id="@+id/trans_upload_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top">
+
+        <include
+            layout="@layout/view_title_for_activity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+
+    <ListView
+        android:id="@+id/trans_list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/trans_upload_layout"
+        android:divider="#EDEDED"
+    	android:dividerHeight="0.5dp"
+    	android:cacheColorHint="#00000000" >
+    </ListView>
+</RelativeLayout>

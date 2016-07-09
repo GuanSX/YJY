@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#ffffff"
+                android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/nocoursewarelist_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:visibility="visible"
+        >
+
+        <include
+            layout="@layout/view_noitem"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/coursewarelist_swiperefresh_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        >
+
+        <ListView
+            android:id="@+id/list_coursewarelist"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:cacheColorHint="#00000000"
+            android:divider="#DCDBDB"
+            android:dividerHeight="1px"
+            android:fadingEdge="none"
+            android:listSelector="#00000000">
+        </ListView>
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+
+    <!--<LinearLayout-->
+    <!--android:id="@+id/nocourseware_layout"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_weight="1"-->
+    <!--android:orientation="vertical"-->
+    <!--android:visibility="gone">-->
+
+    <!--<ImageView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="center_horizontal"-->
+    <!--android:src="@drawable/icon_create_chat"/>-->
+
+    <!--<TextView-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:paddingLeft="20dip"-->
+    <!--android:paddingRight="20dip"-->
+    <!--android:text="目前没有相关课件。"/>-->
+
+    <!--<Button-->
+    <!--android:id="@+id/newcourseware_button"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginLeft="10dip"-->
+    <!--android:layout_marginRight="10dip"-->
+    <!--android:layout_marginTop="20dip"-->
+    <!--android:background="@drawable/greenbutton"-->
+    <!--android:gravity="center_horizontal"-->
+    <!--android:paddingBottom="6dip"-->
+    <!--android:paddingTop="6dip"-->
+    <!--android:text="上传课件"-->
+    <!--android:textColor="#ffffff"-->
+    <!--android:textSize="16sp"/>-->
+    <!--</LinearLayout>-->
+</RelativeLayout>

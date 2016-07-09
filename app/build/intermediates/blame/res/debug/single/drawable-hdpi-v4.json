@@ -1,0 +1,662 @@
+[
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\document_popup_bg.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\document_popup_bg.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_01.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_share_face_01.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_space_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\nav_space_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\left_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\left_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_02.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_share_face_02.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\detail_info_operator.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\detail_info_operator.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_contact_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\nav_contact_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_logo_renren.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_share_logo_renren.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_contact_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\nav_contact_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fileback.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\fileback.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\check_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weibo_btn_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\weibo_btn_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_unread_bg.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\tab_unread_bg.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\market.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\market.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_file_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\check_file_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_space_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\nav_space_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_light_bar_bg_pad.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_light_bar_bg_pad.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\more_button_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\more_button_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_bg.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\menu_bg.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\music_play.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\music_play.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loginname.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\loginname.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\download_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\doc.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\doc.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_button_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\search_button_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_logo_sina.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_share_logo_sina.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_cancel_pressed.9.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\btn_style_cancel_pressed.9.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_input.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\search_input.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_back_leftpress.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\top_back_leftpress.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p12.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\p12.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_send_button_sel.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_share_send_button_sel.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_chat_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\nav_chat_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\music_stop.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\music_stop.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\custom_menu_bg.9.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\custom_menu_bg.9.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\download_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_edit.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\title_edit.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_add_press.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\title_add_press.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_logo_tenc.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_share_logo_tenc.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_04.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_share_face_04.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\note_loading.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\note_loading.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_sex_female.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\ic_sex_female.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_pressed.9.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\btn_style_pressed.9.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\account_manager.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\account_manager.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_exit.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\user_exit.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_add_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\title_add_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\others.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\others.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\music_pause.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\music_pause.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_btn_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\search_btn_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_button_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\search_button_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_05.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_share_face_05.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_back_left.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\top_back_left.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_bg_shareitem_sel.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_share_bg_shareitem_sel.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_video.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_reset_traffic.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\menu_reset_traffic.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pdf.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\pdf.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avater.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\avater.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_button_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\bg_button_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\music.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\music.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_out_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\message_out_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sleep.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\sleep.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mshou.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\mshou.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.jpg",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\bg.jpg"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_08.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_share_face_08.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\waiting_up.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\waiting_up.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_11.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_share_face_11.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_time_bg.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\chatting_time_bg.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_background.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\menu_background.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_rotate_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\refresh_rotate_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_nav_bar_bg_pad.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_nav_bar_bg_pad.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_in_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\message_in_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert_btn_press.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\alert_btn_press.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_logo_doub.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_share_logo_doub.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\noitem.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\noitem.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checked_file_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\checked_file_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\music_down.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\music_down.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_zero_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\btn_style_zero_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\open_folder_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\open_folder_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_sex_male.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\ic_sex_male.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\outgoing.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\outgoing.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkboxfalse.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\checkboxfalse.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fujian_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\fujian_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\default_ptr_flip.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_in_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\message_in_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_10.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_share_face_10.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share_sina.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\share_sina.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fujian_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\fujian_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\my_card.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\my_card.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loginpsw.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\loginpsw.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_chat_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\nav_chat_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checked_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\checked_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xls.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\xls.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\open_folder_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\open_folder_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_setting_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\nav_setting_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_out_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\message_out_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_new_chat_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\title_new_chat_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\delete_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\delete_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_new_chat_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\title_new_chat_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\incoming.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\incoming.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\def.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\def.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_oauth_check_on.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\folder.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\folder.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert_btn_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\alert_btn_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\upload_button_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\upload_button_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_foot_bg.9.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\title_foot_bg.9.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert_title_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\alert_title_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\share_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photo.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\photo.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\txt.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\txt.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_normal.9.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\btn_style_normal.9.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_12.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_share_face_12.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_add_contact.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\menu_add_contact.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_create_chat.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\icon_create_chat.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_button.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\bg_button.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\filetype.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\filetype.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_07.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_share_face_07.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_detail.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\go_detail.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\courseware_published.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\courseware_published.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\left_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\left_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_cancel_normal.9.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\btn_style_cancel_normal.9.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\video.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_clear_sessionlist.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\menu_clear_sessionlist.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\more_button_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\more_button_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\about.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weibo_btn_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\weibo_btn_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ssdk_oks_ptr_ptr.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\ssdk_oks_ptr_ptr.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\music_up.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\music_up.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blacklist.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\blacklist.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_music.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\share_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_09.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_share_face_09.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert_button_press.9.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\alert_button_press.9.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_updates.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\check_updates.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unavailable.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\unavailable.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_setting_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\nav_setting_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\eating.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\eating.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkboxtrue.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\checkboxtrue.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sinashare.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\sinashare.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\available.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\available.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mla.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\mla.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_btn_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\search_btn_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_new_chat.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\menu_new_chat.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_pic.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_share_pic.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_locate.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_share_locate.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ppt.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\ppt.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_06.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_share_face_06.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\courseware_unpublished.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\courseware_unpublished.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\system_info.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\system_info.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_03.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_share_face_03.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\upload_button_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\upload_button_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avater2.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\avater2.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\delete_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\delete_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert_bg.9.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\alert_bg.9.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_oauth_check_off.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_zero_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\btn_style_zero_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert_button_normal.9.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\alert_button_normal.9.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_options.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\msg_options.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_send_button_nor.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\umeng_share_send_button_nor.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_more.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-hdpi\\list_more.png"
+    }
+]

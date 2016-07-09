@@ -1,0 +1,3 @@
+CHANGED,E:\PROJECT\android-studio-project\YJY\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\yjy\activity\HomeActivity$4.class
+CHANGED,E:\PROJECT\android-studio-project\YJY\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\yjy\activity\HomeActivity$3.class
+CHANGED,E:\PROJECT\android-studio-project\YJY\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\yjy\activity\HomeActivity.class

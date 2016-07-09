@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@color/body_bg"
+                android:orientation="vertical">
+
+    <!-- 在下层-->
+    <LinearLayout
+        android:id="@+id/nouploadrecord_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:visibility="visible">
+
+        <include
+            layout="@layout/view_noitem"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+    <!-- 在上层-->
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/uploadrecord_swiperefresh_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+
+        >
+
+        <ListView
+            android:id="@+id/list_uploadrecord"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:cacheColorHint="#00000000"
+            android:divider="#DCDBDB"
+            android:dividerHeight="1px"
+            android:fadingEdge="none"
+            android:listSelector="#00000000"
+            android:visibility="visible">
+        </ListView>
+
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+
+</RelativeLayout>

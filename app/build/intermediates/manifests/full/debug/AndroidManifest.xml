@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.yjy"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="23" />
+
+    <sdk
+        android:minSdkVersion="12"
+        android:targetSdkVersion="23" />
+
+    <!-- 访问internet权限和友盟权限 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 检测网络状态 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 获取mac地址作为用户的备用唯一标识 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 获取用户手机的IMEI，用来唯一的标识用户。 -->
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 允许应用程序联网，以便向我们的服务器端发送数据。 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- 用于评论模块分享位置信息 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <!-- 访问存储的权限 -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+
+    <!-- 用于评论模块分享位置信息 -->
+    <!-- 取消标题栏 -->
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.NoTitleBar" >
+        <activity
+            android:name="com.yjy.activity.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Theme_AppStartLoad" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.yjy.activity.LoginActivity"
+            android:label="@string/title_activity_login" />
+        <activity
+            android:name="com.yjy.activity.RegisterActivity"
+            android:label="@string/title_activity_regist" />
+        <activity
+            android:name="com.example.yjy.TestUIActivity"
+            android:label="@string/title_activity_test_ui" />
+        <activity
+            android:name="com.yjy.activity.HomeActivity"
+            android:label="@string/title_activity_home" />
+        <activity
+            android:name="com.yjy.activity.BrowseFileActivity"
+            android:label="@string/title_activity_sdcard_file" />
+        <activity
+            android:name="com.yjy.activity.TransFileActivity"
+            android:label="@string/title_activity_trans_upload" />
+        <activity
+            android:name="com.yjy.activity.CardActivity"
+            android:label="@string/title_activity_card" />
+        <activity
+            android:name="com.yjy.activity.EditCoursewareActivity"
+            android:label="@string/title_activity_Edit_Courseware" />
+    </application>
+
+</manifest>

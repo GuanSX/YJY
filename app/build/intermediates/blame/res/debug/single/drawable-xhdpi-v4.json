@@ -1,0 +1,1594 @@
+[
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_reply_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\message_reply_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_image_remove.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_image_remove.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mini_avatar_shadow.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\mini_avatar_shadow.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_wechatmoments.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_wechatmoments.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\special.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\special.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_wechatmoments_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_wechatmoments_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_iv_clear.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\setting_iv_clear.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_shortmessage.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_shortmessage.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\status_success.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\status_success.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d3.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d3.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\newsdetail_image_back.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\newsdetail_image_back.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_kaixin.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_kaixin.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_wechat.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_wechat.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_linkedin.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_linkedin.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_tumblr_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_tumblr_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\new_friend_dash.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\new_friend_dash.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\page_control_on.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\page_control_on.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_iv_binding.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\setting_iv_binding.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\imageshow_full_image_failed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\imageshow_full_image_failed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_text_line.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\login_text_line.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\newsdetail_et_base_new.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\newsdetail_et_base_new.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_socialize_switchimage_unchoose.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_switchimage_unchoose.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\narrow_nor.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\narrow_nor.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\invite_friends_default.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\invite_friends_default.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d7.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d7.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d99.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d99.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_twitter_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_twitter_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_tencentweibo.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_tencentweibo.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_image_bg.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_image_bg.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_divider.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_divider.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\newsdetail_et_clicked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\newsdetail_et_clicked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amassing_money_take_alipay.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\amassing_money_take_alipay.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_socialize_switchbutton_frame.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_switchbutton_frame.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\video.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\video.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_pocket.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_pocket.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_email.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_email.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_sohusuishenkan.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_sohusuishenkan.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\credit_popup_bg.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\credit_popup_bg.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\today_integral_txt.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\today_integral_txt.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_icon_view.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\list_icon_view.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\navigation_back.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\navigation_back.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_renren_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_renren_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_pocket_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_pocket_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_vkontakte_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_vkontakte_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_foursquare.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_foursquare.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\copy_link.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\copy_link.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading_error.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\loading_error.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_flickr_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_flickr_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_facebook.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_facebook.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gift_default.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\gift_default.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_socialize_switchbutton_btn_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_switchbutton_btn_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_tumblr.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_tumblr.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\newsdetail_agree_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\newsdetail_agree_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\friends_default_avatar.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\friends_default_avatar.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\status_failure.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\status_failure.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\webview_bg.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\webview_bg.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\friend_tab_left_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\friend_tab_left_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gray_point.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\gray_point.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\giftdetail_default.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\giftdetail_default.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\defaulting_dialog_bg.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\defaulting_dialog_bg.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_feedback.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\setting_feedback.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_mingdao_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_mingdao_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gift_duihuan.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\gift_duihuan.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_first_quan.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\setting_first_quan.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\integral_rule_txt.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\integral_rule_txt.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_icon_news_dark.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\tab_icon_news_dark.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_icon_money_dark.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\tab_icon_money_dark.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\friend_avatar_logo.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\friend_avatar_logo.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\original.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\original.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jiantou.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\jiantou.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\newsdetail_cancel_agree.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\newsdetail_cancel_agree.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\new_comment_left_select.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\new_comment_left_select.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_email_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_email_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_yixinmoments.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_yixinmoments.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_iv_qq.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\setting_iv_qq.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\image_quality.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\image_quality.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_platform_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_platform_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\newsdetail_link_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\newsdetail_link_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amassing_money_among.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\amassing_money_among.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_browser_back_1.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\btn_browser_back_1.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_back_nor.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\btn_back_nor.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amplification_hover.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\amplification_hover.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d53.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d53.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\integral_rule.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\integral_rule.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\new_comment_mid_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\new_comment_mid_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_line.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_line.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\subscribe_icon_more_press.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\subscribe_icon_more_press.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\girl_change.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\girl_change.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_back_arr.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_wechatfavorite_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_wechatfavorite_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\courseware_more.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\courseware_more.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gift_lipin.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\gift_lipin.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_qq_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_qq_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\boy_hui.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\boy_hui.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\narrow_hover.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\narrow_hover.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_icon_friend_light.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\tab_icon_friend_light.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_coin.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\login_coin.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\navigation_credit_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\navigation_credit_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\friend_tab_left_select.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\friend_tab_left_select.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_under_nolike_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\message_under_nolike_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_under_nolike_hightling_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\message_under_nolike_hightling_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_facebookmessenger.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_facebookmessenger.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\navigation_title.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\navigation_title.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\friends_default.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\friends_default.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amassing_money_integral_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\amassing_money_integral_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\new_list_defaulting.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\new_list_defaulting.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_add_bankcard.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\icon_add_bankcard.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_user_bg.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\chat_user_bg.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_iv_sina.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\setting_iv_sina.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\weixinpress.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\weixinpress.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bingdu_friends_icon_default.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\bingdu_friends_icon_default.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\refresh_rotate_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\refresh_rotate_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_icon_commet.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\list_icon_commet.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_youdao_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_youdao_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gift_prompt_succeed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\gift_prompt_succeed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_wechatfavorite.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_wechatfavorite.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_iv_exit.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\setting_iv_exit.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\girl_hui.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\girl_hui.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amassing_money_take_click_bg.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\amassing_money_take_click_bg.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\main_tab_bottom_bg.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\main_tab_bottom_bg.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_icon_money_light.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\tab_icon_money_light.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cb_on.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\cb_on.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\guide_login_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\guide_login_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\newsdetail_praise_small_ok.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\newsdetail_praise_small_ok.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amassing_money_take_select.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\amassing_money_take_select.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\news_promotion_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\news_promotion_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_tencentweibo.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_tencentweibo.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_qzone.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_qzone.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_sohumicroblog_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_sohumicroblog_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\light_blue_point.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\light_blue_point.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_yixin.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_yixin.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\subscribe_close_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\subscribe_close_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d0.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d0.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\imageshow_spinner_76_inner_holo.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\imageshow_spinner_76_inner_holo.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\new_comment_left_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\new_comment_left_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_iv_bg.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\setting_iv_bg.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_googleplus.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_googleplus.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\next_arrow.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\next_arrow.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_search.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_kaixin_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_kaixin_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_icon_friend_dark.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\tab_icon_friend_dark.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sinapress.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\sinapress.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_title_div.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_title_div.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_wechatfavorite.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_wechatfavorite.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_iv_qq_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\setting_iv_qq_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pin.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\pin.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_yixin_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_yixin_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_back_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\title_back_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_download.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\icon_download.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gift_zixun.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\gift_zixun.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\word.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\word.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d13.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d13.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_btn_hightlight.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\login_btn_hightlight.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\frist_text.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\frist_text.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\status_processing.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\status_processing.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_shortmessage.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_shortmessage.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qqpress.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\qqpress.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_logo.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_logo.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_sinaweibo.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_sinaweibo.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amassing_take_money_record_share_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\amassing_take_money_record_share_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\credit_guide_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\credit_guide_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_text.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\login_text.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\app_logo.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\app_logo.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\activity.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\activity.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\newsdetail_et_base.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\newsdetail_et_base.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\newsdetail_hot_comment_prompt.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\newsdetail_hot_comment_prompt.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lbs_menu_arrow.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\lbs_menu_arrow.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\newsdetail_back.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\newsdetail_back.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gift_point.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\gift_point.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_sohusuishenkan.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_sohusuishenkan.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_recommendfriends.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\setting_recommendfriends.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\imageshow_bottom.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\imageshow_bottom.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_addpic_unfocused.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\icon_addpic_unfocused.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\default_ptr_flip.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_paper_03.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\bg_paper_03.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amassing_money_rule_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\amassing_money_rule_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\white_point.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\white_point.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_kakaotalk_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_kakaotalk_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_pinterest.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_pinterest.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\subscribe_close_press.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\subscribe_close_press.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\newsdetail_link.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\newsdetail_link.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash_point.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\splash_point.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\newsdetail_agree.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\newsdetail_agree.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_kaixin.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_kaixin.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bingdu_firend_pop_bg.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\bingdu_firend_pop_bg.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qqpreesed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\qqpreesed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d16_27.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d16_27.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_qq.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_qq.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_foursquare.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_foursquare.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_socialize_switchimage_choose.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_switchimage_choose.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_linkedin_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_linkedin_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_foursquare_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_foursquare_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bank_pop_message.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\bank_pop_message.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zebra_btn_edit_text_clear.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\zebra_btn_edit_text_clear.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_instapaper.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_instapaper.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d31.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d31.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\news_more_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\news_more_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_evernote.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_evernote.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amassing_take_money_record_dashed_line.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\amassing_take_money_record_dashed_line.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\navigation_weather.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\navigation_weather.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_qzone.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_qzone.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_qq.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_qq.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_btn.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\login_btn.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\item_bg.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\item_bg.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_socialize_switchbutton_bottom.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_switchbutton_bottom.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_iv_subscribe.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\setting_iv_subscribe.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d5.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d5.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_neteasemicroblog.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_neteasemicroblog.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_facebookmessenger_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_facebookmessenger_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pictrue.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\pictrue.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\newsdetail_praise_small.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\newsdetail_praise_small.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gift_notify.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\gift_notify.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_close.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_close.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amassing_money_courteous_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\amassing_money_courteous_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\subscribe_icon_more_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\subscribe_icon_more_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amassing_money_present_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\amassing_money_present_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_sohusuishenkan_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_sohusuishenkan_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_sw_close.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\setting_sw_close.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_people.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\icon_people.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amassing_money_activity_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\amassing_money_activity_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_down.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\icon_down.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d18.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d18.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\imageshow_top.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\imageshow_top.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\newsdetail_hotread_title.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\newsdetail_hotread_title.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_renren.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_renren.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\imageshow_spinner_76_outer_holo.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\imageshow_spinner_76_outer_holo.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\today_divides_into_txt.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\today_divides_into_txt.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_youdao.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_youdao.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\download_img.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\download_img.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bingdu_friend_time.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\bingdu_friend_time.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\progress.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amassing_money_left.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\amassing_money_left.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_line.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_line.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_kakaostory.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_kakaostory.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_icon_like.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\list_icon_like.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_approving_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\message_approving_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d1.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d1.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_iv_default.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\setting_iv_default.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amassing_money_right.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\amassing_money_right.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sina.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\sina.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_shortmessage_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_shortmessage_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_twitter.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_twitter.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\boy_change.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\boy_change.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_yixin.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_yixin.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\navigation_refresh.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\navigation_refresh.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d10_11_12_23_24_25.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d10_11_12_23_24_25.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amassing_money_head_among.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\amassing_money_head_among.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\auth_follow_cb_unc.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\auth_follow_cb_unc.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\friend_tips_login.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\friend_tips_login.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_back.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\title_back.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d17_28.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d17_28.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_douban.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_douban.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\weixin.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\weixin.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\credit_guide_page.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\credit_guide_page.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_neteasemicroblog.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_neteasemicroblog.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_icon_red.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\tab_icon_red.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edittext_back.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\edittext_back.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\newsdetail_share_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\newsdetail_share_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_productmanager_bg.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\chat_productmanager_bg.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\today_integral.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\today_integral.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_sinaweibo_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_sinaweibo_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_pinterest.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_pinterest.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_facebook_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_facebook_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\friend_tab_right_select.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\friend_tab_right_select.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\today_divides_into.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\today_divides_into.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_iv_about.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\setting_iv_about.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_iv_sina_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\setting_iv_sina_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_whatsapp_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_whatsapp_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d8_21.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d8_21.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_evernote_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_evernote_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\profile_icon_iphone.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\profile_icon_iphone.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\konjianpressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\konjianpressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_pinterest_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_pinterest_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_vkontakte.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_vkontakte.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_platform_checked_disabled.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_platform_checked_disabled.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_iv_more.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\setting_iv_more.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\blue_point.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\blue_point.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\news_more_icon_hightliang.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\news_more_icon_hightliang.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\new_comment_right_select.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\new_comment_right_select.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_whatsapp.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_whatsapp.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_actionbar_ok_btn.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_actionbar_ok_btn.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_dropbox.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_dropbox.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\newsdetail_et_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\newsdetail_et_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\feedback_time.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\feedback_time.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_up.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\icon_up.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\emotionstore_progresscancelbtn.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\emotionstore_progresscancelbtn.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_youdao.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_youdao.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_sinaweibo.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_sinaweibo.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gift_qiangqian.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\gift_qiangqian.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_facebook.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_facebook.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_facebookmessenger.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_facebookmessenger.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_shadow.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\title_shadow.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_kakaostory_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_kakaostory_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_iv_update.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\setting_iv_update.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_yixinmoments.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_yixinmoments.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_sw_open.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\setting_sw_open.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d14.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d14.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_flickr.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_flickr.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_right_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\title_right_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_shade.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\login_shade.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\newsdetail_title_plus_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\newsdetail_title_plus_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d2.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d2.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_renren.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_renren.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_bluetooth_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_bluetooth_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_actionbar_back_btn.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_actionbar_back_btn.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_instapaper.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_instapaper.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gift_big_default.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\gift_big_default.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_comment.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\icon_comment.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\friend_tab_right_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\friend_tab_right_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gift_arrow_light.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\gift_arrow_light.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amassing_money_head_digit_bg.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\amassing_money_head_digit_bg.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_instapaper_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_instapaper_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_kakaotalk.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_kakaotalk.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_pocket.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_pocket.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d4.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d4.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d20.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d20.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d15_26.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d15_26.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amassing_money_head_left.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\amassing_money_head_left.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_iv_wechat.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\setting_iv_wechat.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pic.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\pic.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\second_text.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\second_text.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_line_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_line_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\auth_follow_cb_chd.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\auth_follow_cb_chd.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_wechat_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_wechat_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amassing_money_head_right.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\amassing_money_head_right.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_vkontakte.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_vkontakte.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gift_arrow.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\gift_arrow.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\new_comment_right_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\new_comment_right_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amplification.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\amplification.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_googleplus_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_googleplus_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_under_like_hightling_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\message_under_like_hightling_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_sohumicroblog.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_sohumicroblog.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\newsdetail_praise_small_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\newsdetail_praise_small_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_dropbox_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_dropbox_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bar_code.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\bar_code.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_bg.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_bg.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_frist_05.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\bg_frist_05.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_douban.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_douban.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading_browser_error.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\loading_browser_error.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d29.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d29.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_browser_forward_1.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\btn_browser_forward_1.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_iv_wechat_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\setting_iv_wechat_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_douban_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_douban_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_yixinmoments_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_yixinmoments_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_iv_night.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\setting_iv_night.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_twitter.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_twitter.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d6.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d6.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\new_comment_mid_select.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\new_comment_mid_select.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_dropbox.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_dropbox.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_wechatmoments.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_wechatmoments.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d9_22.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d9_22.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_tencentweibo_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_tencentweibo_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_bluetooth.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_bluetooth.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_cancel_back.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\btn_cancel_back.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cb_normal.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\cb_normal.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_kakaostory.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_kakaostory.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amassing_money_cash_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\amassing_money_cash_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_qzone_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_qzone_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_instagram.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_instagram.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_neteasemicroblog_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_neteasemicroblog_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_whatsapp.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_whatsapp.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d19.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d19.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_under_like_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\message_under_like_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\newsdetail_back_pressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\newsdetail_back_pressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_under_close_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\message_under_close_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_icon_me_dark.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\tab_icon_me_dark.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_mingdao.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_mingdao.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_auth_title_back.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amassing_money_take_selected.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\amassing_money_take_selected.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d30.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\d30.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_googleplus.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_googleplus.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_instagram_checked.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_instagram_checked.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\friend_icon_add.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\friend_icon_add.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_bluetooth.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_bluetooth.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qq.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\qq.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_kakaotalk.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_kakaotalk.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_email.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_email.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_socialize_switchbutton_mask.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_switchbutton_mask.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\newsdetail_title_plus.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\newsdetail_title_plus.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_cancel.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\img_cancel.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\banner_defaulting.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\banner_defaulting.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_flickr.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_flickr.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_wechat.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_wechat.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\more_bg.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\more_bg.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\page_control_off.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\page_control_off.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_first_text.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\setting_first_text.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\auth_title_back.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\auth_title_back.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_socialize_switchbutton_btn_unpressed.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_switchbutton_btn_unpressed.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\newsdetail_share.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\newsdetail_share.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_linkedin.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\logo_linkedin.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\courseware_more2.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\courseware_more2.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\full_text.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\full_text.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash_point_hightliang.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\splash_point_hightliang.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_logo_tumblr.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\skyblue_logo_tumblr.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\share_vp_back.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-xhdpi\\share_vp_back.png"
+    }
+]

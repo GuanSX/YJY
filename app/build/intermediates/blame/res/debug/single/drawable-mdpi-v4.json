@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\refresh_rotate_icon.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-mdpi\\refresh_rotate_icon.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-mdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\umeng_share_bg_gridview.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-mdpi\\umeng_share_bg_gridview.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_search.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-mdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\newsdetail_common_refresh.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-mdpi\\newsdetail_common_refresh.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\drawable-mdpi\\default_ptr_flip.png"
+    }
+]

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item type="docId" originalName="gridview" />
+    <item type="docId" originalName="webview" />
+    <item type="docId" originalName="scrollview" />
+
+</resources>

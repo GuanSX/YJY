@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:background="@color/body_bg"
+              android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/ui_setting_card"
+            android:layout_width="fill_parent"
+            android:layout_height="40dip"
+            android:background="@drawable/drawable_pressed_normal"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/card_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dip"
+                android:src="@drawable/my_card"/>
+
+            <TextView
+                android:id="@+id/card_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dip"
+                android:layout_toRightOf="@id/card_image"
+                android:text="个人名片"
+                android:textColor="#000000"
+                android:textSize="14sp"/>
+
+            <ImageView
+                android:id="@+id/card_go"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dip"
+                android:src="@drawable/list_more"/>
+
+            <ImageView
+                android:id="@+id/card_avater"
+                android:layout_width="36dip"
+                android:layout_height="36dip"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="8dip"
+                android:layout_toLeftOf="@id/card_go"
+                android:src="@drawable/avater"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/ui_setting_msg_options"
+            android:layout_width="fill_parent"
+            android:layout_height="40dip"
+            android:background="@drawable/drawable_pressed_normal"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/msg_options_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dip"
+                android:src="@drawable/msg_options"/>
+
+            <TextView
+                android:id="@+id/msg_options_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dip"
+                android:layout_toRightOf="@id/msg_options_image"
+                android:text="消息设置"
+                android:textColor="#000000"
+                android:textSize="14sp"/>
+
+            <ImageView
+                android:id="@+id/msg_options_go"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dip"
+                android:src="@drawable/list_more"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/ui_setting_system_info"
+            android:layout_width="fill_parent"
+            android:layout_height="40dip"
+            android:background="@drawable/drawable_pressed_normal"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/system_info_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dip"
+                android:src="@drawable/system_info"/>
+
+            <TextView
+                android:id="@+id/system_info_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dip"
+                android:layout_toRightOf="@id/system_info_image"
+                android:text="系统通知"
+                android:textColor="#000000"
+                android:textSize="14sp"/>
+
+            <ImageView
+                android:id="@+id/system_info_go"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dip"
+                android:src="@drawable/list_more"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/ui_setting_blacklist"
+            android:layout_width="fill_parent"
+            android:layout_height="40dip"
+            android:background="@drawable/drawable_pressed_normal"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/blacklist_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dip"
+                android:src="@drawable/blacklist"/>
+
+            <TextView
+                android:id="@+id/blacklist_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dip"
+                android:layout_toRightOf="@id/blacklist_image"
+                android:text="隐私通知"
+                android:textColor="#000000"
+                android:textSize="14sp"/>
+
+            <ImageView
+                android:id="@+id/blacklist_go"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dip"
+                android:src="@drawable/list_more"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/ui_setting_update"
+            android:layout_width="fill_parent"
+            android:layout_height="40dip"
+            android:background="@drawable/drawable_pressed_normal"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/update_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dip"
+                android:src="@drawable/check_updates"/>
+
+            <TextView
+                android:id="@+id/update_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dip"
+                android:layout_toRightOf="@id/update_image"
+                android:text="检查更新"
+                android:textColor="#000000"
+                android:textSize="14sp"/>
+
+            <ImageView
+                android:id="@+id/update_go"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dip"
+                android:src="@drawable/list_more"/>
+
+            <TextView
+                android:id="@+id/update_new"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dip"
+                android:layout_toLeftOf="@id/update_go"
+                android:text="New"
+                android:textColor="#000000"
+                android:textSize="14sp"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/ui_setting_market"
+            android:layout_width="fill_parent"
+            android:layout_height="40dip"
+            android:background="@drawable/drawable_pressed_normal"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/market_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dip"
+                android:src="@drawable/market"/>
+
+            <TextView
+                android:id="@+id/market_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dip"
+                android:layout_toRightOf="@id/market_image"
+                android:text="去给粤教云打个分，评价一吧"
+                android:textColor="#000000"
+                android:textSize="14sp"/>
+
+            <ImageView
+                android:id="@+id/market_go"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dip"
+                android:src="@drawable/list_more"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/ui_setting_about"
+            android:layout_width="fill_parent"
+            android:layout_height="40dip"
+            android:background="@drawable/drawable_pressed_normal"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/about_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dip"
+                android:src="@drawable/account_manager"/>
+
+            <TextView
+                android:id="@+id/about_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dip"
+                android:layout_toRightOf="@id/about_image"
+                android:text="关于粤教云"
+                android:textColor="#000000"
+                android:textSize="14sp"/>
+
+            <ImageView
+                android:id="@+id/about_go"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dip"
+                android:src="@drawable/list_more"/>
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:id="@+id/ui_setting_exit"
+            android:layout_width="fill_parent"
+            android:layout_height="40dip"
+            android:background="@drawable/drawable_pressed_normal"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/exit_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dip"
+                android:src="@drawable/user_exit"/>
+
+            <TextView
+                android:id="@+id/exit_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dip"
+                android:layout_toRightOf="@id/exit_image"
+                android:text="退出粤教云"
+                android:textColor="#000000"
+                android:textSize="14sp"/>
+
+            <ImageView
+                android:id="@+id/exit_go"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dip"
+                android:src="@drawable/list_more"/>
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

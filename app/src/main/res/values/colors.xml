@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="body_bg">#F3F2F2</color>
+    <color name="transparent">#00000000</color>
+    <color name="gold">#b89766</color>
+    <color name="item">#525252</color>
+    <color name="bottom_textview">#A8FF24</color>
+    <color name="line_view">#cccccc</color>
+</resources>

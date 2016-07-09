@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\PROJECT\android-studio-project\YJY\app\libs\locSDK_3.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="590d32bdf5bb37ee372a21696b8f7853b224e31f">
+        <dex dex="E:\PROJECT\android-studio-project\YJY\app\build\intermediates\transforms\dex\debug\folders\1000\2\locSDK_3.3_2ce5e9fb68d374114031e2d5f9a32825f89be212\classes.dex" />
+    </item>
+    <item
+        jar="E:\PROJECT\android-studio-project\YJY\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="E:\PROJECT\android-studio-project\YJY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_1a6ef2802a201c20a0163ed6c60727293a9f5c63\classes.dex" />
+    </item>
+    <item
+        jar="E:\PROJECT\android-studio-project\YJY\app\libs\jmimemagic-0.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ecccadacd29c9b7136fd66d2461a0b90a594c4fc">
+        <dex dex="E:\PROJECT\android-studio-project\YJY\app\build\intermediates\transforms\dex\debug\folders\1000\2\jmimemagic-0.1.0_ae14c5b841d2133c406d25dfab056f55bebe4659\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android-SDK\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="E:\PROJECT\android-studio-project\YJY\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_fed9f9f4739e5c9066ba43b460bda59bbb9e1bde\classes.dex" />
+    </item>
+    <item
+        jar="E:\PROJECT\android-studio-project\YJY\app\libs\volley-jar.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="505e4d6845446d7e03345ade5be574f4341eff52">
+        <dex dex="E:\PROJECT\android-studio-project\YJY\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley-jar_c1f10cc43af4c5466617cf1f85ca42a039018e59\classes.dex" />
+    </item>
+    <item
+        jar="E:\PROJECT\android-studio-project\YJY\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="E:\PROJECT\android-studio-project\YJY\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_03520cc834e9a30b25924632dc04f1d767735d62\classes.dex" />
+    </item>
+    <item
+        jar="E:\PROJECT\android-studio-project\YJY\app\libs\asmack-yxl-1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1741d51c3307cfd44f358a7ac8ad1f2724344d83">
+        <dex dex="E:\PROJECT\android-studio-project\YJY\app\build\intermediates\transforms\dex\debug\folders\1000\2\asmack-yxl-1.0_e4072b6bf4df765e56a8b3b10a7b0ab88068eae2\classes.dex" />
+    </item>
+    <item
+        jar="E:\PROJECT\android-studio-project\YJY\app\libs\umeng_social_sdk.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3a7616c97df5a0973556ad726a52b2fe9571b9c5">
+        <dex dex="E:\PROJECT\android-studio-project\YJY\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_sdk_7ec4e41a856b6ada8da43e195a848ed121c5ad8b\classes.dex" />
+    </item>
+    <item
+        jar="E:\PROJECT\android-studio-project\YJY\app\libs\tm-extractors-0.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="239791501815a43afa4d34a0eed96017a0352e84">
+        <dex dex="E:\PROJECT\android-studio-project\YJY\app\build\intermediates\transforms\dex\debug\folders\1000\2\tm-extractors-0.4_e4cc9c2330babd288661978df95eb1704176ec25\classes.dex" />
+    </item>
+    <item
+        jar="E:\PROJECT\android-studio-project\YJY\app\libs\umeng-sns.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5f33f6c3c5aa719c9114b6b3cebec12be5095cbb">
+        <dex dex="E:\PROJECT\android-studio-project\YJY\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-sns_3d7553532bf929620a560140e79255d4bf9b83e6\classes.dex" />
+    </item>
+    <item
+        jar="E:\PROJECT\android-studio-project\YJY\app\libs\httpmime-4.1.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="E:\PROJECT\android-studio-project\YJY\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.1.3_f3d81a240ed08d1ba37381f77d954630883d51ce\classes.dex" />
+    </item>
+    <item
+        jar="E:\PROJECT\android-studio-project\YJY\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e8141b58748bb0b34d101ed03828b83154052a0e">
+        <dex dex="E:\PROJECT\android-studio-project\YJY\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5f2a5acee3fc32de0f766866a1e63b51163f162a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Guan\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="E:\PROJECT\android-studio-project\YJY\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_41a68c3861cf4c0e833d16783b5e8b52ea5ef63f\classes.dex" />
+    </item>
+    <item
+        jar="E:\PROJECT\android-studio-project\YJY\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="72652085ec39ea40a835d517763f5adc1a36c77b">
+        <dex dex="E:\PROJECT\android-studio-project\YJY\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0e433cd751ccf53e28ba01951a3cbc2e74f4e15e\classes.dex" />
+    </item>
+    <item
+        jar="E:\PROJECT\android-studio-project\YJY\app\libs\httpcore-4.4.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="E:\PROJECT\android-studio-project\YJY\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.4.1_35f8d958c61d8dc3bcd65c4df4b5aa4ba1c79a09\classes.dex" />
+    </item>
+    <item
+        jar="E:\PROJECT\android-studio-project\YJY\app\libs\commons-codec-1.10.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="E:\PROJECT\android-studio-project\YJY\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-codec-1.10_0cccaef5eec858da38c50d796605c68be5987124\classes.dex" />
+    </item>
+
+</items>

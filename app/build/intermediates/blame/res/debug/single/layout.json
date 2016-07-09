@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_noitem.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\view_noitem.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_courseware_type.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\menu_courseware_type.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_editcourseware.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\activity_editcourseware.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_sex_radio.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\alert_sex_radio.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_load.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\view_load.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_setting.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_file_item.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\view_file_item.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_input.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\alert_input.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_yesorno.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\alert_yesorno.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_courseware_item.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\view_courseware_item.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_bottom_for_activity.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\view_bottom_for_activity.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_uploadrecord.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\fragment_uploadrecord.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_coursewarelist.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\fragment_coursewarelist.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_trans_file_item.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\view_trans_file_item.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_card.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\activity_card.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_title_for_activity.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\view_title_for_activity.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sdcard_file.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\activity_sdcard_file.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_yuliu2.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\fragment_yuliu2.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_menu.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\custom_menu.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_courseware_more.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\menu_courseware_more.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_progress.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\custom_progress.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_trans_upload.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\activity_trans_upload.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_regist.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\activity_regist.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_downloadrecord.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\fragment_downloadrecord.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_level_radio.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\alert_level_radio.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_ui.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\activity_test_ui.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\android-studio-project\\YJY\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "E:\\PROJECT\\android-studio-project\\YJY\\app\\src\\main\\res\\layout\\activity_home.xml"
+    }
+]
